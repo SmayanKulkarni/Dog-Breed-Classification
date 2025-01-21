@@ -21,7 +21,7 @@ The dataset used in this project originates from the Dog Breed Identification co
 - **Loss Function**: Categorical Crossentropy was utilized to handle the multi-class classification task effectively.
 - **Metrics**: Accuracy was chosen as the primary metric to evaluate the model's performance.
 
-Additional dense layers were added to the pre-trained ResNet-50 model to fine-tune it for the specific task of dog breed classification.
+Additional dense layers were added to the pre-trained ResNet-50 model to fine-tune it to adjust to the 120 different dog breeds to be classified.
 
 ### Results
 The model achieved the following performance metrics on the validation dataset:
